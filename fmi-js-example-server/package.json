@@ -1,0 +1,16 @@
+{
+  "name": "fmi-js-example-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^2.0.0",
+    "fmi-js": "git+https://github.com/mjpohja/fmi-js.git",
+    "hapi": "^16.0.2"
+  }
+}
